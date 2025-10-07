@@ -7,8 +7,8 @@ Também me dedico à interseção entre eletrônica e programação, criando pro
 
 
 ## Contatos:
-[![linkedin](https://img.shields.io/badge/Linkedin-teste?style=for-the-badge&logo=LINKEDIN&color=blue)]([www.linkedin.com/in/grp-0892ret](https://www.linkedin.com/in/grp-0892ret/))
-[![Instagram](https://img.shields.io/badge/Instagram-teste?style=for-the-badge&logo=Instagram&color=purple)]([www.linkedin.com/in/grp-0892ret](https://www.instagram.com/ga_rpires/))
+[![linkedin](https://img.shields.io/badge/Linkedin-teste?style=for-the-badge&logo=LINKEDIN&color=blue)](https://www.linkedin.com/in/grp-0892ret/))
+[![Instagram](https://img.shields.io/badge/Instagram-teste?style=for-the-badge&logo=Instagram&color=purple)](https://www.instagram.com/ga_rpires/))
 [![whatsapp](https://img.shields.io/badge/whatsapp-teste?style=for-the-badge&logo=whatsapp&color=white)](https://wa.me/5534993417077?text=Ol%C3%A1!%20Fale%20com%20o%20Gabriel)
 
 *rezendepiresgabriel@gmail.com*
