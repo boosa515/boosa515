@@ -68,14 +68,6 @@ Também me dedico à interseção entre eletrônica e programação, criando pro
 />
 <img 
     align="left" 
-    alt="Android" 
-    title="Android"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg"       
-/>
-<img 
-    align="left" 
     alt="C++" 
     title="C++"
     width="30px" 
