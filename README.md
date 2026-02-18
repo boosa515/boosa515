@@ -1,6 +1,6 @@
 # Garbriel R. Pires
 
-**`Fullstack Developer`**
+**`Fullstack Developer`**<br/>
 Hi, I'm Gabriel! Computer Engineering student passionate about Web and Cross-platform development. I love exploring emerging technologies to build efficient solutions.
 
 
