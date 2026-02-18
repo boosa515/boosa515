@@ -1,12 +1,10 @@
 # Garbriel R. Pires
 
-**`Desenvolvedor Fullstack`**
-
-Me chamo Gabriel e atualmente curso Engenharia da Computação. Gosto de explorar o desenvolvimento de sites e aplicações multiplataforma.
-Também me dedico à interseção entre eletrônica e programação, criando projetos práticos com Arduino, Raspberry Pi e microcontroladores. Estou sempre em busca de novas tecnologias e de maneiras de aplicá-las em projetos reais.
+**`Fullstack Developer`**
+Hi, I'm Gabriel! Computer Engineering student passionate about Web and Cross-platform development. I love exploring emerging technologies to build efficient solutions.
 
 
-## Contatos:
+## Contacts:
 [![linkedin](https://img.shields.io/badge/Linkedin-teste?style=for-the-badge&logo=LINKEDIN&color=blue)](https://www.linkedin.com/in/grp-0892ret/)
 [![Instagram](https://img.shields.io/badge/Instagram-teste?style=for-the-badge&logo=Instagram&color=purple)](https://www.instagram.com/ga_rpires/)
 [![whatsapp](https://img.shields.io/badge/whatsapp-teste?style=for-the-badge&logo=whatsapp&color=white)](https://wa.me/5534993417077?text=Ol%C3%A1!%20Tudo%20Bem%20Gabriel!)
@@ -16,7 +14,7 @@ Também me dedico à interseção entre eletrônica e programação, criando pro
 <br/>
 <br/>
 
-## Linguagens e Tecnologias
+## Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -72,7 +70,7 @@ Também me dedico à interseção entre eletrônica e programação, criando pro
 <br/>
 <br/>
 
-## Estatísticas
+## Statistics
 
 <p>
   <img 
