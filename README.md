@@ -66,6 +66,14 @@ Hi, I'm Gabriel! Computer Engineering student passionate about Web and Cross-pla
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Flutter"
+    title="Flutter" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://juststickers.in/wp-content/uploads/2019/01/flutter-264x264.png" 
+/>
 
 <br/>
 <br/>
