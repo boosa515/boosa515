@@ -7,10 +7,10 @@ Hi, I'm Gabriel! Computer Engineering student passionate about Web and Cross-pla
 
 
 ## Contacts:
-[![linkedin](https://img.shields.io/badge/Linkedin-teste?style=for-the-badge&logo=LINKEDIN&color=blue)](https://www.linkedin.com/in/grp-0892ret/)
-[![Instagram](https://img.shields.io/badge/Instagram-teste?style=for-the-badge&logo=Instagram&color=purple)](https://www.instagram.com/ga_rpires/)
+[![linkedin](https://img.shields.io/badge/Linkedin-teste?style=for-the-badge&logo=Linkedin&color=blue)](https://www.linkedin.com/in/grp-0892ret/)
 [![whatsapp](https://img.shields.io/badge/whatsapp-teste?style=for-the-badge&logo=whatsapp&color=white)](https://wa.me/5534993417077?text=Ol%C3%A1!%20Tudo%20Bem%20Gabriel!)
-[![Gmail](https://img.shields.io/badge/Gmail-Email?style=for-the-badge&logo=gmail&color=red)](mailto:rezendepiresgabriel@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-teste?style=for-the-badge&logo=Instagram&color=purple)](https://www.instagram.com/ga_rpires/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email?style=for-the-badge&logo=gmail&color=white)](mailto:rezendepiresgabriel@gmail.com)
 
 <br/>
 <br/>
