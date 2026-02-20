@@ -4,8 +4,9 @@
 
 <br/>
 
-Computer Engineering student passionate about Web and Cross-platform development. I love exploring emerging technologies to build efficient solutions.
+## Formação Acadêmica
 
+- **Engenharia de Computação** - Universidade Estadual de Minas Gerais (UEMG)
 
 ## Contacts:
 <br/>
