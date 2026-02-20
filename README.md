@@ -2,8 +2,6 @@
 
 **`Fullstack Developer`**
 
-<br/>
-
 ## Formação Acadêmica
 
 - **Engenharia de Computação** - Universidade Estadual de Minas Gerais (UEMG)
@@ -13,13 +11,11 @@
 Você pode entrar em contato comigo através dos seguintes canais:
 <br/>
 
-
 [![linkedin](https://img.shields.io/badge/Linkedin-teste?style=for-the-badge&logo=Linkedin&color=blue)](https://www.linkedin.com/in/grp-0892ret/)
 [![whatsapp](https://img.shields.io/badge/whatsapp-teste?style=for-the-badge&logo=whatsapp&color=white)](https://wa.me/5534993417077?text=Ol%C3%A1!%20Tudo%20Bem%20Gabriel!)
 [![Instagram](https://img.shields.io/badge/Instagram-teste?style=for-the-badge&logo=Instagram&color=purple)](https://www.instagram.com/ga_rpires/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email?style=for-the-badge&logo=gmail&color=white)](mailto:rezendepiresgabriel@gmail.com)
 
-<br/>
 <br/>
 
 ## Languages ​​and Technologies
@@ -57,7 +53,7 @@ Você pode entrar em contato comigo através dos seguintes canais:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
-    align="left" 
+    align="left" Update R
     alt="React"
     title="React" 
     width="30px" 
@@ -73,9 +69,6 @@ Você pode entrar em contato comigo através dos seguintes canais:
     src="https://juststickers.in/wp-content/uploads/2019/01/flutter-264x264.png" 
 />
 
-<br/>
-<br/>
-<br/>
 <br/>
 
 ## Statistics
