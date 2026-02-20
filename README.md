@@ -7,7 +7,6 @@
 ## Formação Acadêmica
 
 - **Engenharia de Computação** - Universidade Estadual de Minas Gerais (UEMG)
-<br/>
 
 ## Contacts:
 
