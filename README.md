@@ -1,7 +1,6 @@
 # Hi, I'm Garbriel R. Pires
 
 **`Fullstack Developer`**
-c
 <br/>
 Computer Engineering student passionate about Web and Cross-platform development. I love exploring emerging technologies to build efficient solutions.
 
